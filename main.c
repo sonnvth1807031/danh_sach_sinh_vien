@@ -52,7 +52,6 @@ void main() {
             printf("Vui long nhap so dien thoai cua sinh vien %d:",i+1);
             fgetc(stdin);
             scanf("%s", profiles[i].phone);
-
         }
         printf("danh sach sv da day\n");
         printf("Vui long nhap lua chon tiep trong menu: \n"
@@ -81,5 +80,4 @@ void main() {
         printf("good bye! cam on da su dung dich vu cua chung toi!");
         exit("thoat");
     }
-
 };
