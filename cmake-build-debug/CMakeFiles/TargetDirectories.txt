@@ -1,0 +1,3 @@
+/home/nguyenvanson/CLionProjects/ho_so/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nguyenvanson/CLionProjects/ho_so/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nguyenvanson/CLionProjects/ho_so/cmake-build-debug/CMakeFiles/ho_so.dir
